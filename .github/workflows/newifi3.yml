@@ -16,7 +16,7 @@ on:
     types: published
   push:
     branches:
-      - master
+       - master
     paths:
       - 'newifi3.config'
   schedule:
